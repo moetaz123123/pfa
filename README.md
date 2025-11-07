@@ -1,15 +1,15 @@
--Projet PFA – Application Forensique Full Stack
+## Projet PFA – Application Forensique Full Stack ##
 
 Technologies : Django · Angular · FTK Imager · Wireshark · ClamAV
 Établissement : ENET'Com Sfax
 
--Description du projet
+## Description du projet ##
 
 Ce projet consiste en une application full-stack d’analyse forensique automatisée permettant de collecter, analyser et présenter des informations issues de systèmes informatiques. L’objectif est de faciliter le travail des enquêteurs ou analystes de sécurité en centralisant plusieurs fonctionnalités essentielles dans une seule plateforme.
 
 L’application est composée d’un back-end Django et d’un front-end Angular, offrant à la fois une puissance d’analyse et une interface utilisateur moderne et intuitive.
 
--Fonctionnalités principales
+## Fonctionnalités principales ##
 
 Acquisition et analyse d’images disques
 
@@ -41,13 +41,13 @@ Possibilité de visualiser les rapports détaillés pour chaque analyse.
 
 Fonction de génération automatique de rapports d’incidents, téléchargeables en PDF ou consultables directement dans l’application.
 
--Architecture du projet
+## Architecture du projet ##
 
 Back-end Django : Gestion des API, traitement des fichiers, orchestration des outils forensiques.
 
 Front-end Angular : Dashboard interactif, visualisation des résultats et génération de rapports.
 
--Outils intégrés :
+## Outils intégrés ##
 
 FTK Imager : acquisition des disques
 
@@ -55,7 +55,7 @@ Wireshark : analyse réseau
 
 ClamAV : détection de virus et malwares
 
--Objectifs pédagogiques et professionnels
+## Objectifs pédagogiques et professionnels ##
 
 Comprendre et mettre en œuvre les bonnes pratiques de forensique numérique.
 
@@ -63,7 +63,7 @@ Automatiser des processus complexes d’analyse de systèmes et de réseaux.
 
 Créer une solution full-stack moderne combinant back-end, front-end et intégration d’outils tiers.
 
--Démonstration vidéo
+## Démonstration vidéo ##
 
 Lien vers la démonstration interactive :
 [🎥 Watch the demo video on Google Drive](https://drive.google.com/file/d/1F1xJhElVJy6Che_KFPdjOA5C01W07GD3/view)
